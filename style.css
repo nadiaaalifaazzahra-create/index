@@ -1,0 +1,22 @@
+
+header {
+  background-color: silver;
+  text-align: center;
+  padding: 10px:
+  border: 15px;
+}
+nav {
+  background-color: aqua;
+  text-align: center;
+  color: skyblue;
+  padding: 5px;
+  border: 12px;
+}
+main {
+    background-color: brown;
+    text-align: center;
+}
+footer{
+    background-color: aquamarine;
+    text-align: center;
+}
